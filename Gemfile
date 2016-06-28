@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+# Heroku --specs...
+gem 'rails_12factor'
 # Puma
 gem 'puma'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
