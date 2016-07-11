@@ -72,8 +72,8 @@ p {
     box-shadow: none;
 }
 .navbar .brand img {
-    width:120px;
-    height:40px;
+    width:380px;
+    height:100px;
 }
 .navbar .nav > li > a {
     text-transform:uppercase;
@@ -91,7 +91,7 @@ p {
 }
 .navbar .nav > li:hover> a, .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
     border: 1px solid #FECE1A;
-    color: #fff;
+    color: #bdd1df;
     background-color: #181A1C;
     transition: border-color 1s ease;
 }
@@ -355,7 +355,7 @@ p {
 }
 .section .title > p {
     font-size: 20px;
-    color: #FFF;
+    color: #4e9fbb;
     font-weight: lighter;
 }
 .primary-section {
@@ -365,13 +365,13 @@ p {
     border-top: 40px solid #FECE1A;
 }
 .primary-section .title {
-    border-bottom: 1px solid #FFF;
+    border-bottom: 1px solid #4e9fbb;
 }
 .primary-section, .primary-section .title p, .primary-section h3 {
     color: #FECE1A;
 }
 .primary-section h1 {
-    color:#FFF;
+    color:#4e9fbb;
 }
 .secondary-section {
     background:#FECE1A;
